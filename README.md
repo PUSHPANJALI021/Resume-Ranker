@@ -221,8 +221,6 @@ recharts
 
 ---
 
-## 👩‍💻 Author
+<img width="769" height="509" alt="image" src="https://github.com/user-attachments/assets/882dbf33-57cf-4795-bbd4-c405a77eec54" />
 
-**Pushpanjali**  
-Built as a full-stack AI portfolio project using React, Node.js, Neon PostgreSQL, and Google Gemini.
 
